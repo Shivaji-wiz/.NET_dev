@@ -23,3 +23,9 @@ Completed C# lambda expressions
 Completed C# Event Handling
 
 Completed C# Extensive Methods
+
+Unit and Nunit testing using C#
+
+IDE's like visual studio and rider
+
+Nunit modules and testing methods
