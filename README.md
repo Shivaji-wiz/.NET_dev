@@ -29,3 +29,5 @@ Unit and Nunit testing using C#
 IDE's like visual studio and rider
 
 Nunit modules and testing methods
+
+C# LINQ (Language Integrated Query)
