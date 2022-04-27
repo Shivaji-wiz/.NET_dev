@@ -1,0 +1,5 @@
+C:\Users\hp\source\repos\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Lambda\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+C:\Users\hp\source\repos\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
