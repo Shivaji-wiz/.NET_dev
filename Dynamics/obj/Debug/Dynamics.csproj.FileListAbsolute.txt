@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\Dynamics\bin\Debug\Dynamics.exe.config
+C:\Users\hp\source\repos\Dynamics\bin\Debug\Dynamics.exe
+C:\Users\hp\source\repos\Dynamics\bin\Debug\Dynamics.pdb
+C:\Users\hp\source\repos\Dynamics\obj\Debug\Dynamics.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Dynamics\obj\Debug\Dynamics.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Dynamics\obj\Debug\Dynamics.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Dynamics\obj\Debug\Dynamics.exe
+C:\Users\hp\source\repos\Dynamics\obj\Debug\Dynamics.pdb
