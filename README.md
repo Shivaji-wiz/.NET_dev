@@ -33,3 +33,5 @@ Nunit modules and testing methods
 C# LINQ (Language Integrated Query)
 
 C# NullableTypes
+
+Exception Handling in C#
